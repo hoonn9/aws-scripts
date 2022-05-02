@@ -1,0 +1,10 @@
+### Create env file
+
+.env
+
+```
+CIDR_BLOCK=10.1.1.0/24
+VPC_NAME_TAG=my-vpc
+SUBNET_NAME_TAG=my-vpc-subnet-01
+AVAILABLILTY_ZONE=ap-northeast-2a
+```
